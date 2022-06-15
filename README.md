@@ -18,18 +18,18 @@ This uses Open Weather Map API for weather info on cities around the world. This
 This section uses info gained above and Google Maps API to mark destinations with weather info including Hotel name. Temp was set
 between 75 and 95 degrees.
 
-PICTURE
+![alt text](https://github.com/brivasbravo/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Vacation Itinerary
 
 This shows the info gathered from Google Maps Directions API to map out what the drive would potentially appear for traveling between
 all the stops choosen. Note start and finish are the same city. In our case we have choosen: Avera(start/stop), Rincon, Russel, and Ocala.
 
-PICTURE
+![alt text](https://github.com/brivasbravo/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-PICURWE 2
+Second pic shows hotel info for each destination as well:
 
-![alt text](https://github.com/brivasbravo/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+![alt text](https://github.com/brivasbravo/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 This is an excellant source to use for travelers in need of planning. Please share with all those who have an itch for adventure!
 
